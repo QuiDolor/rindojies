@@ -8,6 +8,9 @@ Rezultāts: tīmekļa aplikācija, kas attēlo konkrētas izglītības iestādes
 
 Ieguvums: lietotāji - skolēni un skolotāji varēs plānot un ekonomēt savu pusdienām atvēlēto laiku.
 
+Izmantotie rīki: Visual Studio Code, Arduino, Atom, Excel, Notepad, GIMP, paint.net.
+Videoprezentācijai: HitFilm Express.
+
 
 Patlaban ir pieejams prototips, kas sastāv no šādām daļām:
 
