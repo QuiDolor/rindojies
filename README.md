@@ -2,15 +2,11 @@
 Projekts Latvijas Skolu Atvērto Datu hakatona ietvaros
 
 
-
-
 Autori: komanda QuiDolor
 
 Rezultāts: tīmekļa aplikācija, kas attēlo konkrētas izglītības iestādes pusdienu rindas garumu reālajā laikā.
 
 Ieguvums: lietotāji - skolēni un skolotāji varēs plānot un ekonomēt savu pusdienām atvēlēto laiku.
-
-
 
 
 Patlaban ir pieejams prototips, kas sastāv no šādām daļām:
